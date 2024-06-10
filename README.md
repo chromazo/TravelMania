@@ -1,2 +1,2 @@
 # TravelMania
-final year project
+Welcome to the repository for my college final year project!
